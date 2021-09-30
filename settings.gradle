@@ -1,2 +1,2 @@
-rootProject.name='FormsTest'
+rootProject.name='My Form App'
 include ':app'
